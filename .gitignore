@@ -1,0 +1,11 @@
+# .ipynb_check
+/*/**/.ipynb_checkpoints/*
+
+# ignore my_log_dir
+section.7/my_log_dir/
+
+# ignore .vscode
+.vscode/*
+
+# ignore all .DS_Store
+/*/**/.DS_Store
